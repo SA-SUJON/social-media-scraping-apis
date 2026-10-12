@@ -120,8 +120,11 @@ content += `<img src="https://img.shields.io/badge/APIs-${totalActors.toLocaleSt
 content += `<img src="https://img.shields.io/badge/Categories-${sortedCategories.length}-green?style=for-the-badge&logo=tag" alt="Categories">\n`;
 content += `<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">\n`;
 content += `<img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">\n\n`;
+content += `<br>\n\n`;
+content += `<p align="center">\n`;
 content += `<a href="https://trendshift.io/repositories/27223?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-27223" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/27223/daily?language=JavaScript" alt="#3 JavaScript Repository Of The Day | Trendshift" width="250" height="55"/></a>\n`;
 content += `<a href="https://trendshift.io/repositories/27223?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-27223" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/27223/weekly?language=JavaScript" alt="#12 JavaScript Repository Of The Week | Trendshift" width="250" height="55"/></a>\n`;
+content += `</p>\n\n`;
 content += `\n`;
 content += `---\n\n`;
 content += `### ⭐ Star This Repository\n\n`;
