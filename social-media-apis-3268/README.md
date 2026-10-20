@@ -8,6 +8,11 @@
 
 | API Name | Description |
 |----------|-------------|
+| [✨ Instagram Public Post Details](https://apimesa.com) | Extract public Instagram post metadata, captions, images, canonical URLs, and structured page data when the source permits crawling. |
+| [✨ TikTok Video Details](https://apimesa.com) | Resolve public TikTok video captions, creators, thumbnails, and embeddable metadata through the public oEmbed interface. |
+| [✨ Social Video Info](https://apimesa.com) | Get the real title, author, and thumbnail for a YouTube, TikTok, Instagram, or Vimeo video via official oEmbed and Open Graph data. |
+| [✨ Reddit Thread Extractor](https://apimesa.com) | Extract public Reddit posts and bounded comment trees with authors, scores, timestamps, hierarchy, and source permalinks. |
+| [✨ YouTube Video Details API](https://apimesa.com) | Get full details for any YouTube video — title, channel, views, likes, comments, publish date, duration, and thumbnails — from a video ID or URL. Responses are cached for 24 hours. |
 | [NO COOKIES LinkedIn Search Posts Scraper](https://apify.com/scary_good_apis/linkedin-search-posts?fpr=p2hrc6) | Easily and quickly search LinkedIn for posts matching your exact keywords and filters without needing to risk your own LinkedIn account or using your cookies. |
 | [▶️ YouTube Channel Comment Collector](https://apify.com/n.nobar/youtube-channel-comment-collector?fpr=p2hrc6) | Collect recent comments, authors, and likes from the latest videos on any public YouTube channel. Specify the number of latest videos to check (e.g., last 5, 10, or 20). Get comments in bulk from an... |
 | [⚡ Instagram Video Scraper - Lite 🔬](https://apify.com/scrapearchitect/instagram-video-scraper-lite?fpr=p2hrc6) | 📊 Scrape Instagram video metadata: titles 📝likes 💬❤️ formats 🧰 dates 📅! No downloads 🚫📥 Bulk URLs 🔄 residential proxies 🛡️ For marketers 📈 researchers 🔬 Fast ⚡15+ fields! ⚡Instagram Video... |
